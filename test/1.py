@@ -4,5 +4,7 @@
 # @File    : 1.py
 # @Software: PyCharm
 
+import numpy as np
 
-print("hellO")
+data = { i : np.random.randn() for i in range(7)}
+
