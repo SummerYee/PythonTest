@@ -1,10 +1,18 @@
 # -*- coding: utf-8 -*-
 # @Author  : 王小易 / SummerYee
-# @Time    : 2020/1/3 15:18
-# @File    : 1.py
+# @Time    :  13:16 
+# @File    : Python Test 1.py
 # @Software: PyCharm
 
 import numpy as np
+import matplotlib.pyplot as plt
+import pandas as pd
+import seaborn as sns
+import statsmodels as sm
 
-data = { i : np.random.randn() for i in range(7)}
+from numpy.random import randn
+
+data = {i : randn() for i in range(7)}
+
+print(data)
 
