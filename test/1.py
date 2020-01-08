@@ -11,8 +11,6 @@ import seaborn as sns
 import statsmodels as sm
 
 from numpy.random import randn
-
 data = {i : randn() for i in range(7)}
-
 print(data)
 
