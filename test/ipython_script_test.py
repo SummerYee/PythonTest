@@ -43,9 +43,11 @@ for a, b, c in iterator:
 # range 返回生成一个等差整数序列
 # range 产生的整数包含起始但不包含结尾  常用于根据序列的检索遍历
 
-# 三元表达式  value = true-expr if cindition else false-expr
-# 等价于    if cindition:
-#               value =  true-expr
-#           else:
-#               value = false-expr
+# 三元表达式
+value = true-expr if cindition else false-expr
+# 等价于
+if cindition:
+    value =  true-expr
+else:
+    value = false-expr
 
