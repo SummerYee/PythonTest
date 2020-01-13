@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ccba8084-4838-4632-b663-62f24dad6115" name="Default Changelist" comment="" />
+    <list default="true" id="ccba8084-4838-4632-b663-62f24dad6115" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +20,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="PATH_TO_GIT" value="E:\Program Files\Git\cmd\git.exe" />
+    <option name="PATH_TO_GIT" value="E:\Program Files\Git\bin\git.exe" />
     <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="PUSH_TAGS">
       <GitPushTagMode>
@@ -62,7 +64,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.deploy.options" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunManager" selected="Python.ipython_script_test">
     <configuration name="1" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
@@ -228,7 +230,7 @@
       <workItem from="1578454801399" duration="3554000" />
       <workItem from="1578462951319" duration="3571000" />
       <workItem from="1578544740204" duration="1472000" />
-      <workItem from="1578895088437" duration="6732000" />
+      <workItem from="1578895088437" duration="7055000" />
     </task>
     <task id="LOCAL-00001" summary="练习">
       <created>1578036150754</created>
@@ -300,7 +302,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578906051311</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Initial commit">
+      <created>1578906370113</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1578906370113</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TodoView">
@@ -338,26 +347,26 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="361" y="76" key="#Live_Templates/0.0.1536.834@0.0.1536.834" timestamp="1578465818214" />
-    <state x="147" y="16" key="CommitChangelistDialog2" timestamp="1578906050088">
+    <state x="147" y="16" key="CommitChangelistDialog2" timestamp="1578906368861">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="147" y="16" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1578906050088" />
-    <state x="548" y="162" key="FileChooserDialogImpl" timestamp="1578903153047">
+    <state x="147" y="16" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1578906368861" />
+    <state x="548" y="162" key="FileChooserDialogImpl" timestamp="1578906682401">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="548" y="162" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1578903153047" />
+    <state x="548" y="162" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1578906682401" />
     <state x="396" y="330" width="273" height="207" key="Github.ShareDialog" timestamp="1578466291940">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="396" y="330" width="273" height="207" key="Github.ShareDialog/0.0.1536.834@0.0.1536.834" timestamp="1578466291940" />
-    <state x="173" y="113" key="SettingsEditor" timestamp="1578906358791">
+    <state x="173" y="113" key="SettingsEditor" timestamp="1578906685678">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="173" y="113" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1578906358791" />
-    <state x="101" y="134" key="Vcs.Push.Dialog.v2" timestamp="1578906078449">
+    <state x="173" y="113" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1578906685678" />
+    <state x="101" y="134" key="Vcs.Push.Dialog.v2" timestamp="1578906372205">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="101" y="134" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1578906078449" />
+    <state x="101" y="134" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1578906372205" />
     <state x="461" y="246" key="com.intellij.ide.util.TipDialog" timestamp="1578544772772">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
