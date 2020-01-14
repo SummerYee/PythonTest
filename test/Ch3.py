@@ -77,3 +77,15 @@ Out[110]: False
 # a、b没有交集返回True
 a.isdisjoint(b)
 Out[111]: False
+# update 将a的内容设置成a、b的并集
+In[112]: c = a.copy()  #将a的内容复制到c
+In[113]: c |= b        #updat
+In[114]: c
+Out[114]: {1, 2, 3, 4, 5, 6, 7, 8
+# 将a的内容设置成a、b的交集
+Out[114]: {1, 2, 3, 4, 5, 6, 7, 8}
+In[115]: d = a.copy()
+In[116]: d &= b
+In[117]: d
+Out[117]: {3, 4, 5}
+
