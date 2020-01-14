@@ -58,34 +58,40 @@ a.intersection(b)
 Out[103]: {3, 4, 5}
 a & b
 Out[104]: {3, 4, 5}
-# 在a不在b的元素 a-b
+# 在a不在b的元素 a-b  difference()
 a.difference(b)
 Out[105]: {1, 2}
-# 在b不在a的元素 b-a
+# 在b不在a的元素 b-a  difference()
 b.difference(a)
 Out[106]: {6, 7, 8}
-# 所有在a或b的元素，但不是同时在a、b中 a^b
+# 所有在a或b的元素，但不是同时在a、b中 a^b  symmetric_difference()
 a.symmetric_difference(b)
 Out[107]: {1, 2, 6, 7, 8}
 b.symmetric_difference(a)
 Out[108]: {1, 2, 6, 7, 8}
-# a 是否包含 b
+# a 是否包含 b  issubset()
 a.issubset(b)
 Out[109]: False
 b.issubset(a)
 Out[110]: False
-# a、b没有交集返回True
+# 如果a包含b返回True   issuperset()
+In[121]: a_set = {1, 2, 3, 4, 5}
+In[123]: a_set.issuperset({1, 2, 3})
+Out[123]: True
+# a、b没有交集返回True  isdisjoint()
 a.isdisjoint(b)
 Out[111]: False
-# update 将a的内容设置成a、b的并集
+#  将a的内容设置成a、b的并集  update()
 In[112]: c = a.copy()  #将a的内容复制到c
 In[113]: c |= b        #updat
 In[114]: c
 Out[114]: {1, 2, 3, 4, 5, 6, 7, 8
-# 将a的内容设置成a、b的交集
+# 将a的内容设置成a、b的交集   &=  intersection_update()
 Out[114]: {1, 2, 3, 4, 5, 6, 7, 8}
 In[115]: d = a.copy()
 In[116]: d &= b
 In[117]: d
 Out[117]: {3, 4, 5}
+
+
 
