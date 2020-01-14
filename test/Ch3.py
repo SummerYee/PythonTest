@@ -74,3 +74,6 @@ a.issubset(b)
 Out[109]: False
 b.issubset(a)
 Out[110]: False
+# a、b没有交集返回True
+a.isdisjoint(b)
+Out[111]: False
