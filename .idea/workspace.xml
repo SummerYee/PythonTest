@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ccba8084-4838-4632-b663-62f24dad6115" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/Ch3.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/Ch3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +58,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../毕业设计/pydata-book" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -93,6 +94,9 @@
       <module name="Python Test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -134,6 +138,9 @@
       <module name="Python Test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -175,6 +182,9 @@
       <module name="Python Test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -194,6 +204,9 @@
       <module name="Python Test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -250,7 +263,8 @@
       <workItem from="1578454801399" duration="3554000" />
       <workItem from="1578462951319" duration="3571000" />
       <workItem from="1578544740204" duration="1472000" />
-      <workItem from="1578895088437" duration="12157000" />
+      <workItem from="1578895088437" duration="12248000" />
+      <workItem from="1578968587037" duration="3394000" />
     </task>
     <task id="LOCAL-00001" summary="练习">
       <created>1578036150754</created>
@@ -357,7 +371,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578911093579</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Initial commit">
+      <created>1578912370969</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1578912370969</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TodoView">
@@ -395,10 +416,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="361" y="76" key="#Live_Templates/0.0.1536.834@0.0.1536.834" timestamp="1578465818214" />
-    <state x="147" y="16" key="CommitChangelistDialog2" timestamp="1578911091613">
+    <state x="147" y="16" key="CommitChangelistDialog2" timestamp="1578912369971">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="147" y="16" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1578911091613" />
+    <state x="147" y="16" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1578912369971" />
     <state x="548" y="162" key="FileChooserDialogImpl" timestamp="1578906682401">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -411,10 +432,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="177" y="120" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1578911085230" />
-    <state x="391" y="214" key="Vcs.Push.Dialog.v2" timestamp="1578911201062">
+    <state x="391" y="214" key="Vcs.Push.Dialog.v2" timestamp="1578912372621">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="391" y="214" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1578911201062" />
+    <state x="391" y="214" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1578912372621" />
     <state x="461" y="246" key="com.intellij.ide.util.TipDialog" timestamp="1578544772772">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
