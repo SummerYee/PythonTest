@@ -113,5 +113,13 @@ dict_comp = { key-expr : value-expr for value in collection if collection }
 # 集合推导式
 sset-comp = { expr for value in collection if collection}
 
-
+# 嵌套列表推导
+names_of_interest = []
+for names in all_data:
+    enough_es = [name for name in names if name.count('e') >= 2]
+    names_of_interest.extend(enough_es)
+# 等价于
+In[138]: result = [name for names in all_data for name in names if name.count('e') >= 2]
+In[139]: result
+Out[139]: ['Steven']
 
