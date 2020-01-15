@@ -194,4 +194,13 @@ Out[153]:
  'South   Carolina',
  'West Virginia']
 
+# 匿名函数 Lambda  通过单个语句生成函数的方式 其结果是返回值
+def short_function(x):
+    return x * 2
+equiv_anon = lambda x: x * 2
 
+def apply_to_list(some_list, f):
+    return [f(x) for x in some_list]
+
+ints = [4, 0, 1, 5, 6]
+apply_to_list(ints, lambda x: x * 2)
