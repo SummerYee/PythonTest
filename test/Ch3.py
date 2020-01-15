@@ -204,3 +204,12 @@ def apply_to_list(some_list, f):
 
 ints = [4, 0, 1, 5, 6]
 apply_to_list(ints, lambda x: x * 2)
+
+# 柯里化 Currying
+def add_numbers(x, y):
+    return x + y
+
+add_five = lambda y : add_numbers(5, y) # 柯里化
+# 可以使用functools模块可以使用pratial函数简化
+from functools import partial
+add_five = partial(add_numbers, 5)
