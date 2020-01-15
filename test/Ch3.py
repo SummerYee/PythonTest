@@ -97,3 +97,21 @@ In[125]: {1, 2, 3} == {3, 2, 1}
 Out[125]: True
 
 
+
+#列表推导式
+[exper for val in collection if condition]
+#等价于
+result = []
+for val in collection:
+    if condition:
+        result.append(exper)
+
+
+# 字典推导式
+dict_comp = { key-expr : value-expr for value in collection if collection }
+
+# 集合推导式
+sset-comp = { expr for value in collection if collection}
+
+
+
