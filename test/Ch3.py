@@ -123,3 +123,75 @@ In[138]: result = [name for names in all_data for name in names if name.count('e
 In[139]: result
 Out[139]: ['Steven']
 
+# 正则表达式模块re
+import re
+def clean_strings(strings):
+    result = []
+    for value in strings:
+        value = value.strip()
+        value = re.sub('[!#?]', '', value)
+        value = value.title()
+        result.append(value)
+    return result
+# clean_strings 函数具有更高的复用性和通用性
+# 特殊处理
+def remove_punctuation(value):
+    return re.sub('[!#?]', '', value)
+
+clean_ops = [str.strip, remove_punctuation, str.title]
+
+def clean_strings(strings, ops):
+    result = []
+    for value in strings:
+        for function in ops:
+            value = function(value)
+        result.append(value)
+    return result
+
+In[148]: states = ['   Alabama ', 'Georgia!', 'Georgia', 'georgia', 'FlOrIda',
+    ...:          'south   carolina##', 'West virginia?']
+In[149]: clean_strings(states)
+In[150]: import re
+    ...:
+    ...:def clean_strings(strings):
+    ...:    result = []
+    ...:    for value in strings:
+    ...:        value = value.strip()
+    ...:        value = re.sub('[!#?]', '', value)
+    ...:        value = value.title()
+    ...:        result.append(value)
+    ...:    return result
+    ...:
+In[151]: clean_strings(states)
+Out[151]:
+['Alabama',
+ 'Georgia',
+ 'Georgia',
+ 'Georgia',
+ 'Florida',
+ 'South   Carolina',
+ 'West Virginia']
+In[152]: def remove_punctuation(value):
+    ...:    return re.sub('[!#?]', '', value)
+    ...:
+    ...:clean_ops = [str.strip, remove_punctuation, str.title]
+    ...:
+    ...:def clean_strings(strings, ops):
+    ...:    result = []
+    ...:    for value in strings:
+    ...:        for function in ops:
+    ...:            value = function(value)
+    ...:        result.append(value)
+    ...:    return result
+    ...:
+In[153]: clean_strings(states, clean_ops)
+Out[153]:
+['Alabama',
+ 'Georgia',
+ 'Georgia',
+ 'Georgia',
+ 'Florida',
+ 'South   Carolina',
+ 'West Virginia']
+
+
