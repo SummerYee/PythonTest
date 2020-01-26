@@ -10,6 +10,9 @@ import pandas as pd
 import seaborn as sns
 import statsmodels as sm
 
+# Python语言基础、IPython及Jupyter notebook
+
+
 # bisect 二分搜索 已排序列表的插值
 # bisect.bisect 找到元素应当被插入的位置，并保持序列排序
 # bisect.insort 将元素插入到相应的位置
