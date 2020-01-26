@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ccba8084-4838-4632-b663-62f24dad6115" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test/Ch04 ---NumPy.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/Ch04 ---NumPy.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +65,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="preferences.general" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunManager" selected="Python.Ch04 ---NumPy">
     <configuration name="1" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
@@ -258,7 +259,7 @@
       <workItem from="1578544740204" duration="1472000" />
       <workItem from="1578895088437" duration="12248000" />
       <workItem from="1578968587037" duration="20485000" />
-      <workItem from="1580028364807" duration="1787000" />
+      <workItem from="1580028364807" duration="3915000" />
     </task>
     <task id="LOCAL-00001" summary="练习">
       <created>1578036150754</created>
@@ -491,7 +492,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580030238107</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Initial commit">
+      <created>1580030494421</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1580030494421</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TodoView">
@@ -529,10 +537,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="361" y="76" key="#Live_Templates/0.0.1536.834@0.0.1536.834" timestamp="1578465818214" />
-    <state x="9" y="0" key="CommitChangelistDialog2" timestamp="1580030236222">
+    <state x="9" y="0" key="CommitChangelistDialog2" timestamp="1580030491703">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="9" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1580030236222" />
+    <state x="9" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1580030491703" />
     <state x="548" y="162" key="FileChooserDialogImpl" timestamp="1578906682401">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -573,14 +581,14 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1493" height="209" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1580028602829" />
-    <state x="177" y="120" key="SettingsEditor" timestamp="1578911085230">
+    <state x="177" y="120" key="SettingsEditor" timestamp="1580031988038">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="177" y="120" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1578911085230" />
-    <state x="46" y="95" key="Vcs.Push.Dialog.v2" timestamp="1580030243378">
+    <state x="177" y="120" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1580031988038" />
+    <state x="46" y="95" key="Vcs.Push.Dialog.v2" timestamp="1580030511960">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="46" y="95" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1580030243378" />
+    <state x="46" y="95" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1580030511960" />
     <state x="358" y="221" key="com.intellij.ide.util.TipDialog" timestamp="1580028386714">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
