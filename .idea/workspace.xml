@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ccba8084-4838-4632-b663-62f24dad6115" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/Ch3.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/Ch3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +67,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="preferences.general" />
   </component>
-  <component name="RunManager" selected="Python.Ch3">
+  <component name="RunManager" selected="Python.Ch04 ---NumPy">
     <configuration name="1" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Python Test" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -111,20 +112,17 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Ch04 ---NumPy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python Test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/Ch04 ---NumPy.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -220,11 +218,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Ch04 ---NumPy" />
         <item itemvalue="Python.Ch3" />
         <item itemvalue="Python.ipython_script_test" />
         <item itemvalue="Python.2" />
         <item itemvalue="Python.test" />
-        <item itemvalue="Python.3" />
       </list>
     </recent_temporary>
   </component>
@@ -261,7 +259,7 @@
       <workItem from="1578544740204" duration="1472000" />
       <workItem from="1578895088437" duration="12248000" />
       <workItem from="1578968587037" duration="20485000" />
-      <workItem from="1580028364807" duration="167000" />
+      <workItem from="1580028364807" duration="910000" />
     </task>
     <task id="LOCAL-00001" summary="练习">
       <created>1578036150754</created>
@@ -466,7 +464,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579079456732</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Initial commit">
+      <created>1580028628990</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1580028628991</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TodoView">
@@ -504,10 +509,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="361" y="76" key="#Live_Templates/0.0.1536.834@0.0.1536.834" timestamp="1578465818214" />
-    <state x="147" y="16" key="CommitChangelistDialog2" timestamp="1579079454918">
+    <state x="147" y="16" key="CommitChangelistDialog2" timestamp="1580028626589">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="147" y="16" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1579079454918" />
+    <state x="147" y="16" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1580028626589" />
     <state x="548" y="162" key="FileChooserDialogImpl" timestamp="1578906682401">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -552,10 +557,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="177" y="120" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1578911085230" />
-    <state x="391" y="214" key="Vcs.Push.Dialog.v2" timestamp="1579079459459">
+    <state x="391" y="214" key="Vcs.Push.Dialog.v2" timestamp="1580028634356">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="391" y="214" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1579079459459" />
+    <state x="391" y="214" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1580028634356" />
     <state x="358" y="221" key="com.intellij.ide.util.TipDialog" timestamp="1580028386714">
       <screen x="0" y="0" width="1536" height="834" />
     </state>

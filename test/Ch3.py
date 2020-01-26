@@ -213,3 +213,4 @@ add_five = lambda y : add_numbers(5, y) # 柯里化
 # 可以使用functools模块可以使用pratial函数简化
 from functools import partial
 add_five = partial(add_numbers, 5)
+
