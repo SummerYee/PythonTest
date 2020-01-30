@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ccba8084-4838-4632-b663-62f24dad6115" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/Ch04 ---NumPy.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/Ch04 ---NumPy.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -264,7 +263,7 @@
       <workItem from="1578968587037" duration="20485000" />
       <workItem from="1580028364807" duration="4023000" />
       <workItem from="1580035030297" duration="587000" />
-      <workItem from="1580202068247" duration="13646000" />
+      <workItem from="1580202068247" duration="16685000" />
     </task>
     <task id="LOCAL-00001" summary="练习">
       <created>1578036150754</created>
@@ -546,7 +545,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580306524556</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="Initial commit">
+      <created>1580307904508</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1580307904508</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TodoView">
@@ -584,10 +590,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="361" y="76" key="#Live_Templates/0.0.1536.834@0.0.1536.834" timestamp="1578465818214" />
-    <state x="9" y="0" key="CommitChangelistDialog2" timestamp="1580306523098">
+    <state x="9" y="0" key="CommitChangelistDialog2" timestamp="1580307902908">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="9" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1580306523098" />
+    <state x="9" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1580307902908" />
     <state x="9" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1580303844123" />
     <state x="548" y="162" key="FileChooserDialogImpl" timestamp="1578906682401">
       <screen x="0" y="0" width="1536" height="834" />
@@ -633,10 +639,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="177" y="120" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1580031988038" />
-    <state x="46" y="95" key="Vcs.Push.Dialog.v2" timestamp="1580306526412">
+    <state x="46" y="95" key="Vcs.Push.Dialog.v2" timestamp="1580307908081">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="46" y="95" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1580306526412" />
+    <state x="46" y="95" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1580307908081" />
     <state x="46" y="98" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1580303847616" />
     <state x="358" y="221" key="com.intellij.ide.util.TipDialog" timestamp="1580028386714">
       <screen x="0" y="0" width="1536" height="834" />
