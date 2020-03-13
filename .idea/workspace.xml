@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ccba8084-4838-4632-b663-62f24dad6115" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/Ch04.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/Ch04 ---NumPy.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/Ch04 ---NumPy.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +17,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="Jupyter Notebook" />
       </list>
     </option>
   </component>
@@ -38,7 +40,11 @@
       </set>
     </option>
   </component>
-  <component name="JupyterTrust" id="f4fd51fa-9e3e-476a-b59f-ebdde8ba919c" />
+  <component name="JupyterTrust" id="f4fd51fa-9e3e-476a-b59f-ebdde8ba919c">
+    <option name="files">
+      <option value="test\Ch04.ipynb" />
+    </option>
+  </component>
   <component name="PerforceDirect.Settings">
     <option name="ENABLED" value="false" />
   </component>
@@ -64,7 +70,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager" selected="Python.Ch04 ---NumPy">
     <configuration name="1" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
@@ -115,9 +121,6 @@
       <module name="Python Test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -268,6 +271,7 @@
       <workItem from="1580035030297" duration="587000" />
       <workItem from="1580202068247" duration="17597000" />
       <workItem from="1580386762538" duration="10000" />
+      <workItem from="1584093423600" duration="690000" />
     </task>
     <task id="LOCAL-00001" summary="练习">
       <created>1578036150754</created>
@@ -563,17 +567,15 @@
       <option name="project" value="LOCAL" />
       <updated>1580384719741</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="Initial commit">
+      <created>1584093574800</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1584093574800</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
-  </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -601,9 +603,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="361" y="76" key="#Live_Templates/0.0.1536.834@0.0.1536.834" timestamp="1578465818214" />
-    <state x="9" y="0" key="CommitChangelistDialog2" timestamp="1580384717289">
-      <screen x="0" y="0" width="1536" height="834" />
+    <state x="9" y="0" key="CommitChangelistDialog2" timestamp="1584093572889">
+      <screen x="0" y="0" width="1470" height="864" />
     </state>
+    <state x="9" y="0" key="CommitChangelistDialog2/0.0.1470.864@0.0.1470.864" timestamp="1584093572889" />
     <state x="9" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1580384717289" />
     <state x="9" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1580303844123" />
     <state x="548" y="162" key="FileChooserDialogImpl" timestamp="1580384810790">
@@ -646,9 +649,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1493" height="209" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1580028602829" />
-    <state x="177" y="120" key="SettingsEditor" timestamp="1580031988038">
-      <screen x="0" y="0" width="1536" height="834" />
+    <state x="169" y="124" key="SettingsEditor" timestamp="1584094117549">
+      <screen x="0" y="0" width="1470" height="864" />
     </state>
+    <state x="169" y="124" key="SettingsEditor/0.0.1470.864@0.0.1470.864" timestamp="1584094117549" />
     <state x="177" y="120" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1580031988038" />
     <state x="46" y="95" key="Vcs.Push.Dialog.v2" timestamp="1580384722250">
       <screen x="0" y="0" width="1536" height="834" />
