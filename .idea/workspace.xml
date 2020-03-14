@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ccba8084-4838-4632-b663-62f24dad6115" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/2.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test/Ch04.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/test/Ch04.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,7 +70,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="preferences.externalTools" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager" selected="Python.2">
     <configuration name="1" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
@@ -100,6 +99,9 @@
       <module name="Python Test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -119,6 +121,9 @@
       <module name="Python Test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -273,7 +278,8 @@
       <workItem from="1584152302836" duration="1543000" />
       <workItem from="1584155326721" duration="4199000" />
       <workItem from="1584164290178" duration="2000" />
-      <workItem from="1584169357945" duration="1785000" />
+      <workItem from="1584169357945" duration="2343000" />
+      <workItem from="1584171759260" duration="1219000" />
     </task>
     <task id="LOCAL-00001" summary="练习">
       <created>1578036150754</created>
@@ -583,7 +589,21 @@
       <option name="project" value="LOCAL" />
       <updated>1584094242948</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="Initial commit">
+      <created>1584171409948</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1584171409948</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Updata">
+      <created>1584171455263</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1584171455263</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -605,7 +625,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="练习" />
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="Updata" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updata" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="76" key="#Live_Templates" timestamp="1578465818214">
@@ -616,10 +637,10 @@
       <screen x="0" y="0" width="1470" height="864" />
     </state>
     <state x="691" y="189" width="469" height="450" key="#com.intellij.tools.ToolEditorDialog/0.0.1470.864@0.0.1470.864" timestamp="1584170877183" />
-    <state x="9" y="0" key="CommitChangelistDialog2" timestamp="1584094251731">
+    <state x="194" y="0" key="CommitChangelistDialog2" timestamp="1584171453843">
       <screen x="0" y="0" width="1470" height="864" />
     </state>
-    <state x="9" y="0" key="CommitChangelistDialog2/0.0.1470.864@0.0.1470.864" timestamp="1584094251731" />
+    <state x="194" y="0" key="CommitChangelistDialog2/0.0.1470.864@0.0.1470.864" timestamp="1584171453843" />
     <state x="9" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1580384717289" />
     <state x="9" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1580303844123" />
     <state x="295" y="163" key="FileChooserDialogImpl" timestamp="1584170876175">
@@ -667,10 +688,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1493" height="209" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1580028602829" />
-    <state x="202" y="0" key="SettingsEditor" timestamp="1584170911069">
+    <state x="202" y="0" key="SettingsEditor" timestamp="1584171531072">
       <screen x="0" y="0" width="1470" height="864" />
     </state>
-    <state x="202" y="0" key="SettingsEditor/0.0.1470.864@0.0.1470.864" timestamp="1584170911069" />
+    <state x="202" y="0" key="SettingsEditor/0.0.1470.864@0.0.1470.864" timestamp="1584171531072" />
     <state x="177" y="120" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1580031988038" />
     <state x="44" y="98" key="Vcs.Push.Dialog.v2" timestamp="1584094258759">
       <screen x="0" y="0" width="1470" height="864" />
@@ -678,10 +699,10 @@
     <state x="44" y="98" key="Vcs.Push.Dialog.v2/0.0.1470.864@0.0.1470.864" timestamp="1584094258759" />
     <state x="46" y="95" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1580384722250" />
     <state x="46" y="98" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1580303847616" />
-    <state x="343" y="229" key="com.intellij.ide.util.TipDialog" timestamp="1584169358419">
+    <state x="343" y="229" key="com.intellij.ide.util.TipDialog" timestamp="1584171772130">
       <screen x="0" y="0" width="1470" height="864" />
     </state>
-    <state x="343" y="229" key="com.intellij.ide.util.TipDialog/0.0.1470.864@0.0.1470.864" timestamp="1584169358419" />
+    <state x="343" y="229" key="com.intellij.ide.util.TipDialog/0.0.1470.864@0.0.1470.864" timestamp="1584171772130" />
     <state x="358" y="221" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1580028386714" />
     <state x="26" y="130" width="672" height="678" key="search.everywhere.popup" timestamp="1578910487834">
       <screen x="0" y="0" width="1536" height="834" />
