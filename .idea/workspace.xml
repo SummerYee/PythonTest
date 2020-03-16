@@ -279,7 +279,9 @@
       <workItem from="1584155326721" duration="4199000" />
       <workItem from="1584164290178" duration="2000" />
       <workItem from="1584169357945" duration="2343000" />
-      <workItem from="1584171759260" duration="1219000" />
+      <workItem from="1584171759260" duration="3513000" />
+      <workItem from="1584328018841" duration="528000" />
+      <workItem from="1584328576285" duration="1252000" />
     </task>
     <task id="LOCAL-00001" summary="练习">
       <created>1578036150754</created>
@@ -603,7 +605,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584171455263</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="Updata">
+      <created>1584172987195</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1584172987195</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -637,10 +646,10 @@
       <screen x="0" y="0" width="1470" height="864" />
     </state>
     <state x="691" y="189" width="469" height="450" key="#com.intellij.tools.ToolEditorDialog/0.0.1470.864@0.0.1470.864" timestamp="1584170877183" />
-    <state x="194" y="0" key="CommitChangelistDialog2" timestamp="1584171453843">
+    <state x="194" y="0" key="CommitChangelistDialog2" timestamp="1584172985092">
       <screen x="0" y="0" width="1470" height="864" />
     </state>
-    <state x="194" y="0" key="CommitChangelistDialog2/0.0.1470.864@0.0.1470.864" timestamp="1584171453843" />
+    <state x="194" y="0" key="CommitChangelistDialog2/0.0.1470.864@0.0.1470.864" timestamp="1584172985092" />
     <state x="9" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1580384717289" />
     <state x="9" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1580303844123" />
     <state x="295" y="163" key="FileChooserDialogImpl" timestamp="1584170876175">
@@ -693,16 +702,16 @@
     </state>
     <state x="202" y="0" key="SettingsEditor/0.0.1470.864@0.0.1470.864" timestamp="1584171531072" />
     <state x="177" y="120" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1580031988038" />
-    <state x="44" y="98" key="Vcs.Push.Dialog.v2" timestamp="1584094258759">
+    <state x="44" y="98" key="Vcs.Push.Dialog.v2" timestamp="1584173024672">
       <screen x="0" y="0" width="1470" height="864" />
     </state>
-    <state x="44" y="98" key="Vcs.Push.Dialog.v2/0.0.1470.864@0.0.1470.864" timestamp="1584094258759" />
+    <state x="44" y="98" key="Vcs.Push.Dialog.v2/0.0.1470.864@0.0.1470.864" timestamp="1584173024672" />
     <state x="46" y="95" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1580384722250" />
     <state x="46" y="98" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1580303847616" />
-    <state x="343" y="229" key="com.intellij.ide.util.TipDialog" timestamp="1584171772130">
+    <state x="343" y="229" key="com.intellij.ide.util.TipDialog" timestamp="1584328650257">
       <screen x="0" y="0" width="1470" height="864" />
     </state>
-    <state x="343" y="229" key="com.intellij.ide.util.TipDialog/0.0.1470.864@0.0.1470.864" timestamp="1584171772130" />
+    <state x="343" y="229" key="com.intellij.ide.util.TipDialog/0.0.1470.864@0.0.1470.864" timestamp="1584328650257" />
     <state x="358" y="221" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1580028386714" />
     <state x="26" y="130" width="672" height="678" key="search.everywhere.popup" timestamp="1578910487834">
       <screen x="0" y="0" width="1536" height="834" />
