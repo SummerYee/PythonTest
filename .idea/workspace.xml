@@ -282,14 +282,7 @@
       <workItem from="1584171759260" duration="3513000" />
       <workItem from="1584328018841" duration="528000" />
       <workItem from="1584328576285" duration="5502000" />
-      <workItem from="1584409532472" duration="2833000" />
-    </task>
-    <task id="LOCAL-00004" summary="练习">
-      <created>1578372341965</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1578372341965</updated>
+      <workItem from="1584409532472" duration="4110000" />
     </task>
     <task id="LOCAL-00005" summary="Initial commit">
       <created>1578461317794</created>
@@ -627,7 +620,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584411853454</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="Updata">
+      <created>1584412446331</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1584412446331</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -661,13 +661,13 @@
       <screen x="0" y="0" width="1470" height="864" />
     </state>
     <state x="691" y="189" width="469" height="450" key="#com.intellij.tools.ToolEditorDialog/0.0.1470.864@0.0.1470.864" timestamp="1584170877183" />
-    <state x="203" y="30" key="CommitChangelistDialog2" timestamp="1584411851511">
+    <state x="203" y="30" key="CommitChangelistDialog2" timestamp="1584412444796">
       <screen x="0" y="30" width="1536" height="834" />
     </state>
     <state x="194" y="0" key="CommitChangelistDialog2/0.0.1470.864@0.0.1470.864" timestamp="1584346130322" />
     <state x="9" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1580384717289" />
     <state x="9" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1580303844123" />
-    <state x="203" y="30" key="CommitChangelistDialog2/0.30.1536.834@0.30.1536.834" timestamp="1584411851511" />
+    <state x="203" y="30" key="CommitChangelistDialog2/0.30.1536.834@0.30.1536.834" timestamp="1584412444796" />
     <state x="295" y="163" key="FileChooserDialogImpl" timestamp="1584170876175">
       <screen x="0" y="0" width="1470" height="864" />
     </state>
